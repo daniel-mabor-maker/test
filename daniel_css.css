@@ -1,0 +1,8 @@
+.test{
+    border: 8px dotted yellow;
+    background-color: aqua;
+    color: purple;
+    width: max-content;
+    padding: 10%;
+    margin: 10%;
+}
